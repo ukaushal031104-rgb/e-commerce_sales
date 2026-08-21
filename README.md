@@ -30,7 +30,6 @@ The database architecture consists of **5 relational tables**, designed to accur
 | **`region`** | Geographical metadata for regional analysis. <br>*(RegionID, RegionName, Country)* |
 
 ### ER Diagram
-*(Replace the placeholder below with a screenshot of your ER Diagram)*
 
 ![Database ER Diagram](screenshots/er_dig.png)
 
