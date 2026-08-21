@@ -31,7 +31,7 @@ The database architecture consists of **5 relational tables**, designed to accur
 
 ### ER Diagram
 
-![Database ER Diagram](screenshots/er_dig.png)
+(screenshots/er_dig.png)
 
 ---
 
