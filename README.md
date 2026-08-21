@@ -83,17 +83,6 @@ To replicate the database and run the analysis locally, follow these steps:
 
 ---
 
-## 📸 Query Results Gallery
-*(Here you can paste screenshots of your most impressive SQL query results running in MySQL Workbench or DBeaver)*
-
-**1. Top 10 Customers by Revenue**  
-![Top 10 Customers](screenshots/query_results/top_customers_placeholder.png)
-
-**2. Regional Revenue Comparison**  
-![Regional Revenue](screenshots/query_results/regional_revenue_placeholder.png)
-
----
-
 ## 📂 Repository Structure
 
 ```text
